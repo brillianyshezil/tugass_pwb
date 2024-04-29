@@ -20,7 +20,7 @@
     <h3>Cara Bergabung ke Media Online</h3>
     <ol>
         <li>Mengunjungi website ini</li>
-        <li>Mendaftar di <a href="2.sign.up.html">form sign up</a></li>
+        <li>Mendaftar di <a href="2-signup-form-shezil.php">form sign up</a></li>
         <li>Selesai</li>
     </ol>
 </body>
